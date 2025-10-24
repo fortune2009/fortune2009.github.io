@@ -43,3 +43,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Web build artifacts in assets folder
+assets/AssetManifest*
+assets/NOTICES
+assets/FontManifest.json
+assets/shaders/
+assets/fonts/
+assets/assets/
