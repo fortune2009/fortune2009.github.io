@@ -1,0 +1,25 @@
+name: wear_data
+description: Flutter Web biometrics dashboard for wearable and journaling data visualization
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.65.0
+  flutter_riverpod: ^2.4.9
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.1
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
