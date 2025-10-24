@@ -4,7 +4,7 @@ A Flutter Web application for visualizing wearable biometrics and journaling dat
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://yourusername.github.io/wear-data/)**
+**[View Live Demo](https://fortune2009.github.io/)**
 
 ## 📹 Demo Recording
 
