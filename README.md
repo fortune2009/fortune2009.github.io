@@ -28,7 +28,7 @@ The recording shows:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wear-data.git
+git clone https://github.com/fortune2009/fortune2009.github.io.git
 cd wear-data
 
 # Install dependencies
