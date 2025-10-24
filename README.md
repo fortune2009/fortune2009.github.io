@@ -13,7 +13,6 @@ See the complete app demonstration at: `/demo/demo_recording.mp4`
 The recording shows:
 - App loading with skeleton UI
 - Range switching (90d → 30d → 7d)
-- Pan & zoom interactions
 - Synchronized tooltip behavior across charts
 - Journal annotation interactions
 - Error handling with retry functionality

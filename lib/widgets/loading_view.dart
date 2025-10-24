@@ -27,7 +27,7 @@ class LoadingView extends StatelessWidget {
         borderRadius: BorderRadius.circular(12),
       ),
       child: Shimmer.fromColors(
-        baseColor: Colors.grey[300]!,
+        baseColor: Colors.grey[400]!,
         highlightColor: Colors.grey[100]!,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
